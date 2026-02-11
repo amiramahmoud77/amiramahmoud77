@@ -35,5 +35,3 @@ Contributed backend features for a startup networking and project collaboration 
 - LinkedIn: [amira-mahmoud-b947a9320](https://linkedin.com/in/amira-mahmoud-b947a9320)
 
 
-- Email: amiramahmoud1933@gmail.com  
-- Pronouns: She/Her
