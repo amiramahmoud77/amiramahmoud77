@@ -16,7 +16,11 @@ I enjoy applying my skills in hackathons and real-world projects to create effic
 
 **Soft Skills:** Communication, Teamwork, Time Management, Adaptability  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiramahmoud77&show_icons=true&theme=radical&count_private=true)  
+---
+
+## 📊 GitHub Stats
+
+![Amira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiramahmoud77&show_icons=true&theme=radical&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiramahmoud77&layout=compact&theme=radical)
 
 ---
