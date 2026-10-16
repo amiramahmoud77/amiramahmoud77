@@ -29,7 +29,7 @@
 <tr>
 <td width="33%" align="center" valign="top">
 <br>
-<img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2f/giphy.gif" width="120" alt="Backend Engineering" />
+
 <br><br>
 <h3>⚙️ Backend Engineering</h3>
 <p>Building high-performance APIs & secure server-side systems.</p>
