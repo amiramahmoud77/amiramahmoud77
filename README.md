@@ -22,6 +22,24 @@
 </div>
 
 ---
+<h1 align="center">👩‍💻 About Me</h1>
+
+<table width="100%">
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2f/giphy.gif" width="100%" alt="Developer Animation" />
+    </td>
+    <td width="55%" valign="top">
+      <h3>Hi there! I'm Amira Mahmoud 👋</h3>
+      <p>A <b>Computer Science TA</b> & <b>Software Engineer</b> focusing on <b>Backend (Laravel )</b> & <b>DevOps (AWS, K8s, Terraform)</b>.</p>
+      <ul>
+        <li>🎓 Teaching Assistant & Instructor at CS Faculty.</li>
+        <li>☁️ Building & Automating Cloud-Native Architectures.</li>
+        <li>💡 Mentoring developers & leading technical teams.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## ⚡ Technical Expertise & Core Domains
 
