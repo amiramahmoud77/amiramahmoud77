@@ -27,7 +27,7 @@
 <table width="100%">
   <tr>
     <td width="45%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Animation" />
+      <img src="https://user-images.githubusercontent.com/74038190/229263256-42d4a362-e685-48b2-b13c-fb0d0b01c3d1.gif" width="100%" alt="Developer Animation" />
     </td>
     <td width="55%" valign="top">
       <h3>Hi there! I'm Amira Mahmoud 👋</h3>
