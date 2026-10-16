@@ -31,7 +31,7 @@
     </td>
     <td width="55%" valign="top">
       <h3>Hi there! I'm Amira Mahmoud 👋</h3>
-      <p>A <b>Computer Science TA</b> & <b>Software Engineer</b> focusing on <b>Backend (Laravel 12)</b> & <b>DevOps (AWS, K8s, Terraform)</b>.</p>
+      <p>A <b>Computer Science TA</b> & <b>Software Engineer</b> focusing on <b>Backend (Laravel )</b> & <b>DevOps (AWS, K8s, Terraform)</b>.</p>
       <ul>
         <li>🎓 Teaching Assistant & Instructor at CS Faculty.</li>
         <li>☁️ Building & Automating Cloud-Native Architectures.</li>
