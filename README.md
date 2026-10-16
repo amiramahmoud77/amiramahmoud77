@@ -27,11 +27,11 @@
 <table width="100%">
   <tr>
     <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2f/giphy.gif" width="100%" alt="Developer Animation" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Animation" />
     </td>
     <td width="55%" valign="top">
       <h3>Hi there! I'm Amira Mahmoud 👋</h3>
-      <p>A <b>Computer Science TA</b> & <b>Software Engineer</b> focusing on <b>Backend (Laravel )</b> & <b>DevOps (AWS, K8s, Terraform)</b>.</p>
+      <p>A <b>Computer Science TA</b> & <b>Software Engineer</b> focusing on <b>Backend (Laravel 12)</b> & <b>DevOps (AWS, K8s, Terraform)</b>.</p>
       <ul>
         <li>🎓 Teaching Assistant & Instructor at CS Faculty.</li>
         <li>☁️ Building & Automating Cloud-Native Architectures.</li>
