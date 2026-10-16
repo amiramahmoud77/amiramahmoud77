@@ -27,7 +27,7 @@
 <table width="100%">
   <tr>
     <td width="45%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/229263256-42d4a362-e685-48b2-b13c-fb0d0b01c3d1.gif" width="100%" alt="Developer Animation" />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXY0NDlndXdvOWN4eGNtZTk3ajEyb3pxbTdwMDMybDNndXBmcW16byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Coding Animation"/>
     </td>
     <td width="55%" valign="top">
       <h3>Hi there! I'm Amira Mahmoud 👋</h3>
