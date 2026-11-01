@@ -9,7 +9,7 @@
 
   <!-- Typing Animation Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Cloud-Native+%26+DevOps+Enthusiast;CS+Teaching+Assistant+%26+Instructor;Laravel+%7C+AWS+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Cloud-Native+%26+DevOps+Enthusiast;CS+Teaching+Assistant+%26+Instructor;Laravel+%7C+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -31,7 +31,7 @@
     </td>
     <td width="55%" valign="top">
       <h3>Hi there! I'm Amira Mahmoud 👋</h3>
-      <p>A <b>Computer Science TA</b> & <b>Software Engineer</b> focusing on <b>Backend (Laravel )</b> & <b>DevOps (AWS, K8s, Terraform)</b>.</p>
+      <p>A <b>Computer Science TA</b> & <b>Software Engineer</b> focusing on <b>Backend (Laravel )</b> & <b>DevOps ( K8s, Terraform)</b>.</p>
       <ul>
         <li>🎓 Teaching Assistant & Instructor at CS Faculty.</li>
         <li>☁️ Building & Automating Cloud-Native Architectures.</li>
@@ -94,7 +94,7 @@
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,cpp,mysql,postgres,redis,docker,kubernetes,aws,terraform,ansible,jenkins,prometheus,grafana,linux,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,cpp,mysql,postgres,redis,docker,kubernetes,terraform,ansible,jenkins,prometheus,grafana,linux,git,github,postman" />
 </p>
 
 
